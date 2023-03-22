@@ -1,0 +1,15 @@
+{
+    "name": "codespace/app_rcm_isp",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DiasDia11",
+            "email": "106533792+DiasDia11@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
